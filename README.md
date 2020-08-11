@@ -13,7 +13,7 @@ The project will be divided into 2 parts:-
 First part deals with data preprocessing, creating of proper csv data file and recommending movies to user based on cosine similarity
 The second part deals with scrapping of reviews for that particular movie from IMDB and displaying a few of the reviews alongside telling wheather the review given by that particular reviewer is positive or negative, this is basically sentiment analysis using Natural Language Processing (NLP).
 
-#Dataset
+# Dataset
 
 The dataset is taken from Kaggle, Wikepedia and IMDB from below mentioned links.
 
